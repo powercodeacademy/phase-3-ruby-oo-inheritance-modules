@@ -210,7 +210,7 @@ This class produces objects that love to dance.
 
 Run the tests to make sure some of your tests are passing.
 
-**Note:** Run the `learn test` command at this point, and you will pass *almost* all of the tests! 
+**Note:** Run the `bin/rspec` command at this point, and you will pass _almost_ all of the tests!
 
 ## Code Along 3: Namespacing Modules
 
